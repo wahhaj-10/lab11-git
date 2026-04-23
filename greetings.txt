@@ -1,3 +1,3 @@
-Hello from the MAIN branch!
+Hello from the CONFLICT-TEST branch!
 Member 1 : Wahhaj
 Member 2 : Taha
