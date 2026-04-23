@@ -1,3 +1,4 @@
 Hello from the CONFLICT-TEST branch!
+This line is from conflict-test.
 Member 1 : Wahhaj
 Member 2 : Taha
